@@ -10,8 +10,8 @@ namespace Lessons
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, Max!");
-            Console.WriteLine("Привет, Max!");
+            Console.WriteLine("Hello, Max!!!");
+            Console.WriteLine("Привет, Max!!!");
         }
     }
 }
